@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "nonk43798@gmail.com",
-    "password": "61560050885709",
+    "email": "",
+    "password": "",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -16,7 +16,7 @@
     "enable": false,
     "ignoreCommand": []
   },
-  "adminBot": ["100090405019929","61560050885709"],
+  "adminBot": ["100088590098255","61560050885709"],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
