@@ -4,9 +4,9 @@ const path = require('path');
 
 module.exports = {
   config: {
-    name: "arcano",
-    aliases: ["Shïsûį"],
-    author: " Aesther ", 
+    name: "darc",
+    aliases: ["dcr"],
+    author: " jayden smith ", 
     version: "2.0",
     cooldowns: 5,
     role: 0,
@@ -27,17 +27,16 @@ module.exports = {
         await api.sendMessage(loadingMessage, event.threadID);
 
         const ownerInfo = {
-          name: '🔴𝐀𝐑𝐂𝐀𝐍𝐎🔴',
-          gender: '𝗕𝗢𝗬',
-          hobby: '𝐁𝐚𝐬𝐤𝐞𝐭🏀',
-          relationship: '𝙐𝙉𝘿𝙀𝙁𝙄𝙉𝙀𝘿',
-          facebookLink: 'https://www.facebook.com/profile.php?id=61559119588245',
-          bio: '𝙐𝙉𝘿𝙀𝙁𝙄𝙉𝙀𝘿'
+          name: 'Darc ignis',
+          gender: 'Boy',
+          hobby: 'soccer⚽',
+          relationship: 'privacy',
+          facebookLink: 'https://www.facebook.com/profile.php?id=100088590098255',
+          bio: 'https://lord-auto.onrender.com'
         };
 
         const videoUrl = 
-["https://i.imgur.com/ZpgBKGA.mp4",
-"https://i.imgur.com/h6J9tkb.mp4",
+["https://i.imgur.com/h6J9tkb.mp4",
 "https://i.imgur.com/RmMI3dC.mp4",
 "https://i.imgur.com/jeyjWuk.mp4",
 "https://i.imgur.com/HIWaV6d.mp4",
@@ -72,7 +71,7 @@ module.exports = {
 ❍⌇─➭ 
  𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞🔗: ${ownerInfo.facebookLink}
 ❍⌇─➭ 
-      ◈ 𝗦𝗧𝗔𝗧𝗨𝗦 ◈: $🇨🇲 𝐀𝐑𝐂𝐀𝐍𝐎 𝐌𝐀𝐋𝐈𝐆𝐍𝐔𝐈𝐒 💯🔴 
+      ◈ 𝗦𝗧𝗔𝗧𝗨𝗦 ◈: $𝗗𝗲𝗮𝘁𝗵 𝘄𝗼𝗿𝗹𝗱💯🔴 
 
 𝐔𝐍 𝐏𝐀𝐒𝐒𝐈𝐎𝐍𝐍É 𝐃𝐄 𝐓𝐄𝐂𝐇𝐍𝐎𝐋𝐎𝐆𝐈𝐄𝐒, 𝐏𝐋𝐔𝐒 𝐒𝐎𝐌𝐁𝐑𝐄 𝐐𝐔𝐄 𝐋'𝐎𝐌𝐁𝐑𝐄
         `;
